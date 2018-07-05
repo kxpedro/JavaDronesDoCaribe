@@ -7,7 +7,7 @@ package DroneDoCaribe;
     Usando o contrutor, conseguimos criar varios objetos
     como se fossem drones diferentes.
     Inicializamos eles com alguma cordeanda inicial e
-    o ponto cardeal em que eles está direcionado.
+    o ponto cardeal em que está direcionado.
 */
 public class Main {
     public static void main(String[] args) {
